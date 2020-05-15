@@ -4,4 +4,10 @@ along with creating tables using HTML tags.
 
 //**************************************************
 I also have made a login page using the HTML in 
+<<<<<<< HEAD
 the other branch named bulid.
+=======
+the other branch named bulid.
+
+//Do you want to see something.
+>>>>>>> build
