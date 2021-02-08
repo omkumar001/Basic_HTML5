@@ -1,5 +1,5 @@
-Here , I have used Basic HTML to bulid a vey basic login page , svg animation 
-and creating tables.
+Here , I have used HTML5 to bulid a vey basic login page , svg animation 
+and tables.
 
 **************************************************
 
